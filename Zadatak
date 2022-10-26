@@ -1,0 +1,9 @@
+Simulirati rad restorana. 
+Korisniku se nudi meni sa listom jela. 
+U zavisnosti od toga  koje jelo odabere, 
+korisniku ispisati račun. 
+Svaka stavka sa menija ima svoj naziv i cijenu. 
+Nakon što korisnik odabre stavku (jelo) pitati ga za količinu koju želi natučiti, 
+te  mu nakon toga izračunati ukupan iznos za plaćanje, 
+te ispisati račun koji će između ostalog sadržavati iznos 
+sa PDV-om i bez PDV-a (PDV = 0.17).
